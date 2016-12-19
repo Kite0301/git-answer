@@ -79,3 +79,19 @@ li {
   background-color: #dee7ec;
   color: #889eab;
 }
+
+/* footer部分 */
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 270px;
+}
+
+.footer-logo {
+  padding: 40px 30px 15px 30px;
+  font-size: 32px;
+}
+
+.footer-list li {
+  padding: 10px 30px;
+}
