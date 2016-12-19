@@ -31,3 +31,20 @@ li {
 .selected {
   border-bottom: 6px solid #9ce8e5;
 }
+
+/* main部分 */
+.main {
+  padding: 100px 80px;
+}
+
+.copy-container h1 {
+  font-size: 140px;
+}
+
+.copy-container h2 {
+  font-size: 60px;
+}
+
+.copy-container span {
+  color: #ff4a4a;
+}
