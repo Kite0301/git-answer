@@ -48,3 +48,34 @@ li {
 .copy-container span {
   color: #ff4a4a;
 }
+
+/* form部分 */
+.contact-form {
+  clear: left;
+  padding-top: 100px;
+}
+
+.contact-form h3 {
+  margin-bottom: 50px;
+  font-size: 30px;
+  border-bottom: 5px solid #fcf113;
+  width: 190px;
+}
+
+.contact-body {
+  height: 100px;
+}
+
+.contact-form input, .contact-form textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+}
